@@ -1,3 +1,10 @@
+*{
+  margin: 0px;
+  padding:0px;
+}
+
+
+
 body {
   font-family: "Poppins", sans-serif;
   margin: 50px 50px 0 50px;
